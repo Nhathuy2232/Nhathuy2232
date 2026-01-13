@@ -1,10 +1,10 @@
-<h1 id="hello-there" align="left">Hello there 👋</h1>
+<h1 id="hello-there" align="center">Hello there 👋</h1>
 <p align="center">
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="header">
 </p>
 
 <p align="center">
-Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 Website & Web Applications</strong> hiệu quả, chăm chút trải nghiệm người dùng và tối ưu hiệu năng. Luôn học hỏi công nghệ mới và chia sẻ kiến thức cùng cộng đồng. 🌈
+  Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 Website & Web Applications</strong> hiệu quả, chăm chút trải nghiệm người dùng và tối ưu hiệu năng. Luôn học hỏi công nghệ mới và chia sẻ kiến thức cùng cộng đồng. 🌈
 </p>
 
 <p align="center">
@@ -17,6 +17,13 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+</p>
+
+<p align="center">
+  <!-- Số repository GitHub (tự động từ API) -->
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNhathuy2232&color=0e75b6" alt="Public Repos">
+  <img src="https://img.shields.io/github/followers/Nhathuy2232?label=Followers&style=for-the-badge&color=success" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=Nhathuy2232&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </p>
 
 <hr>
@@ -37,7 +44,7 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
@@ -83,7 +90,7 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
     </div>
   </div>
 
-  <!-- Stats (real GitHub-driven images) -->
+  <!-- Stats (GitHub-driven images, đã sửa URL) -->
   <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nhathuy2232&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nhathuy2232&theme=tokyonight&hide_border=true" alt="Streak stats" />
@@ -98,7 +105,6 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
 
 <hr>
 
-<!-- Featured Projects (tránh 404: dùng link danh sách repo thay vì pin repo không tồn tại) -->
 ## 🚀 Dự án nổi bật
 
 - 🎓 <b>Student Management System</b> — Full-stack (React, Node.js, MongoDB). CRUD sinh viên, Auth, Dashboard, tìm kiếm & lọc.
@@ -114,29 +120,28 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
 
 <hr>
 
-## 📈 Biểu đồ hoạt động
+## 🧭 Index GitHub
 
-# Index Github
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nhathuy2232&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNhathuy2232&color=blue" alt="Public Repos (flat)">
+</p>
+
+<details>
+  <summary>⏱️ Weekly Coding Activity (WakaTime)</summary>
+  <br>
   
-  ## 📊 GitHub Statistics
+  <!--START_SECTION:waka-->
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Nhathuy2232&theme=radical&hide_border=true)
+  <!--END_SECTION:waka-->
   
-  <br/>
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nhathuy2232&theme=github-compact&hide_border=true)
-  
-  ## 📈 Profile Stats
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Nhathuy2232&color=blue&style=flat-square" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/Nhathuy2232?style=social" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/Nhathuy2232?style=social" alt="Stars"/>
-  </p>
-  
-</div>
+  <p><i>Gợi ý: Kết nối WakaTime để hiển thị số giờ code tự động.</i></p>
+</details>
+
+<hr>
 
 ## 🏆 Badges & Affiliations
 <p align="center">
@@ -178,7 +183,7 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </p>
 
-<!-- Contribution snake (chỉ hiển thị nếu workflow đã tạo file) -->
+<!-- Contribution snake (hiển thị nếu workflow tạo file) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nhathuy2232/Nhathuy2232/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
