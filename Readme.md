@@ -1,4 +1,4 @@
-<h1 id="hello-there" align="center">Hello there 👋</h1>
+<h1 id="hello-there" align="left">Hello there 👋</h1>
 <p align="center">
   <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt="header">
 </p>
@@ -128,34 +128,6 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
   <!--START_SECTION:waka-->
   
   <!--END_SECTION:waka-->
-  
-  <p><i>Gợi ý: Kết nối WakaTime để hiển thị số giờ code tự động.</i></p>
-</details>
-
-<hr>
-
-## 🎯 Mục tiêu 2026
-
-```mermaid
-graph LR
-    A[2026 Goals] --> B[Technical Skills]
-    A --> C[Projects]
-    A --> D[Career]
-    A --> E[Community]
-    B --> B1[TypeScript nâng cao]
-    B --> B2[Next.js & SSR]
-    B --> B3[Cloud (AWS)]
-    C --> C1[5 dự án full-stack]
-    C --> C2[1 sản phẩm SaaS]
-    C --> C3[Đóng góp OSS]
-    D --> D1[Thực tập]
-    D --> D2[Freelance]
-    D --> D3[Chứng chỉ]
-    E --> E1[Blog kỹ thuật]
-    E --> E2[Mentor]
-    E --> E3[Meetups]
-```
-
 <hr>
 
 ## 🏆 Badges & Affiliations
