@@ -3,7 +3,10 @@
 <p>I make elegantly professional <strong>💻 Distributed Systems, 📱 iOS apps and 🌐 Website</strong> for a living and also <strong>Write some blogs</strong>. 🌈</p>
 <ul style="height: auto !important;">
 
-<li>💼   Senior Back End Engineer at Alibaba Group.</li>
+<li>💼   DevOps & Tools
+Docker, Git, GitHub Actions
+Postman, Swagger (OpenAPI), Jira, Figma
+VS Code, Visual Studio </li>
 <li>🎓   Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.</li>
 <li>🌱   Currently learning Math &amp; Philosophy.</li>
 <li>📚   Reading more about Apple, Harry Potter and how the computer works.</li>
