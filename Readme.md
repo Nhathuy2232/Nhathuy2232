@@ -122,18 +122,18 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
   
   ## 📊 GitHub Statistics
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=holyminhlu&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Nhathuy2232&theme=radical&hide_border=true)
   
   <br/>
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=holyminhlu&theme=github-compact&hide_border=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nhathuy2232&theme=github-compact&hide_border=true)
   
   ## 📈 Profile Stats
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=holyminhlu&color=blue&style=flat-square" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/holyminhlu?style=social" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/holyminhlu?style=social" alt="Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=Nhathuy2232&color=blue&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/Nhathuy2232?style=social" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/Nhathuy2232?style=social" alt="Stars"/>
   </p>
   
 </div>
@@ -142,8 +142,8 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
 
 | **Statistic** | **Value** |
 |--------------|-----------|
-| **Total Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=…_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fholyminhlu) |
-| **Total Stars** | ![](https://img.shields.io/github/stars/holyminhlu?color=yellow) |
+| **Total Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=…_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNhathuy2232) |
+| **Total Stars** | ![](https://img.shields.io/github/stars/nhathuy2232?color=yellow) |
 
 ---
 
