@@ -11,10 +11,10 @@
   <a href="https://github.com/Nhathuy2232">
     <img src="https://img.shields.io/badge/GitHub-Nhathuy2232-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/nguyendinhnhathuy//">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nhathuy2232004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
