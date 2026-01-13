@@ -138,15 +138,6 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
   
 </div>
 
-## 🔥 Quick Stats
-
-| **Statistic** | **Value** |
-|--------------|-----------|
-| **Total Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=…_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNhathuy2232) |
-| **Total Stars** | ![](https://img.shields.io/github/stars/Nhathuy2232?color=yellow) |
-
----
-
 ## 🏆 Badges & Affiliations
 <p align="center">
   <a href="https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="90" width="90" alt="ACM"></a>
