@@ -61,7 +61,6 @@ VS Code, Visual Studio </li>
 </p>
 🌟 Về tôi
 <ul style="height: auto !important;">
-<li>🎓   Sinh viên năm 3 - Công Nghệ Thông Tin, GPA: 3.5/4.0</li>
 <li>🌱   Đang học: React.js, Node.js, MongoDB & Machine Learning cơ bản</li>
 <li>📚   Sở thích: Đọc sách về công nghệ, xem tech talks và làm pet projects</li>
 <li>💻   3 năm học tập chuyên sâu về lập trình và phát triển phần mềm</li>
@@ -74,8 +73,7 @@ VS Code, Visual Studio </li>
   <summary>Thêm một vài thông tin về tôi~</summary>
   <br>
 <ul>
-<li>🎉   Thành viên tích cực của CLB Lập trình & Câu lạc bộ Khoa học máy tính</li>
-<li>🏆   Tham gia các cuộc thi Hackathon, Competitive Programming</li>
+<li>🎉   Thành viên tích cực của CLB Lập trình & Câu lạc bộ ITHub</li>
 <li>📖   Chứng chỉ: Git & GitHub, Python Programming, Web Development Fundamentals</li>
 <li>🎯   Mục tiêu: Trở thành Full-stack Developer chuyên nghiệp</li>
 </ul>
