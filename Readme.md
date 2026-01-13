@@ -1,199 +1,572 @@
-  <h1 id="hello-there">Hello there 👋</h1>
-<p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p>
-<p>I make elegantly professional <strong>💻 Distributed Systems, 📱 iOS apps and 🌐 Website</strong> for a living and also <strong>Write some blogs</strong>. 🌈</p>
-<ul style="height: auto !important;">
-
-<li>💼   DevOps & Tools
-Docker, Git, GitHub Actions
-Postman, Swagger (OpenAPI), Jira, Figma
-VS Code, Visual Studio </li>
-<li>🎓   Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.</li>
-<li>🌱   Currently learning Math &amp; Philosophy.</li>
-<li>📚   Reading more about Apple, Harry Potter and how the computer works.</li>
-<li>💻   With 4 years’ computer science and technology education and 5 years’ development working experience.</li>
-<li>⛵   Encouraging people for open source collaborations.</li>
-<li>✍🏻   I write my personal thoughts on Programming &amp; Tech in my <a href="https://halfrost.com/">Personal Blog</a>(Cumulative 3.28 million PV / 0.84 million UV).</li>
-</ul>
-<details>
-  <summary>Some other achievements about me~e~e</summary>
-  <br>
-<ul>
-<li>🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.</li>
-<li>🍎   Apple Developer.👨🏻‍💻 &amp; Apple Teacher.🤪</li>
-</ul>
-<p align="center">
-<a href="https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"></a>
-<a href="https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"></a>
-<a href="https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100">
-<a href="https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"></a>
-<a href="https://www.youracclaim.com/badges/b6257c8a-6906-4555-9951-3b92f8918052/public_url"><img src="https://github.com/halfrost/halfrost/blob/master/icons/WES.png" height="100" width="100"></a>
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&amp;hide_langs_below=1&amp;theme=default&amp;line_height=27&amp;layout=compact">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;line_height=21" alt="halfrost's Github Stats">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&amp;column=7" alt="halfrost's Github Trophy">
-</p>
-</details>
-<hr>
-<p align="center">
-  Tôi là sinh viên 💻 Công Nghệ Thông Tin đam mê học hỏi và phát triển 📱 Ứng dụng, 🌐 Website và luôn khao khát khám phá công nghệ mới. 🌈
-💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-🌟 Về tôi
-<ul style="height: auto !important;">
-<li>🌱   Đang học: React.js, Node.js, MongoDB & Machine Learning cơ bản</li>
-<li>📚   Sở thích: Đọc sách về công nghệ, xem tech talks và làm pet projects</li>
-<li>💻   3 năm học tập chuyên sâu về lập trình và phát triển phần mềm</li>
-<li>⛵   Tích cực đóng góp cho cộng đồng open source</li>
-<li>✍🏻   Thỉnh thoảng viết blog chia sẻ kiến thức lập trình</li>
-<li>🎯   Mục tiêu: Trở thành Full-stack Developer trong 2 năm tới</li>
-<li>⚡   Fun fact: Có thể code cả ngày với coffee và lo-fi music</li>
-</ul>
-<details>
-  <summary>Thêm một vài thông tin về tôi~</summary>
-  <br>
-<ul>
-<li>🎉   Thành viên tích cực của CLB Lập trình & Câu lạc bộ ITHub</li>
-<li>📖   Chứng chỉ: Git & GitHub, Python Programming, Web Development Fundamentals</li>
-<li>🎯   Mục tiêu: Trở thành Full-stack Developer chuyên nghiệp</li>
-</ul>
-📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
-</p>
-</details>
-
-🚀 Dự án nổi bật
-
-Website quản lý sinh viên - Full-stack web app với React & Node.js
-Ứng dụng quản lý công việc - Todo app với tính năng nâng cao
-Chatbot AI - Chatbot đơn giản sử dụng Python & NLP
-Portfolio Website - Trang web cá nhân responsive design
-
-🎯 Mục tiêu 2026
-
- Hoàn thành 5 dự án full-stack
- Đóng góp cho 3 dự án open-source
- Học và áp dụng thành thạo React/Vue.js
- Thực tập tại công ty công nghệ
-
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
-</p>
-<p align="center">
-  <i>Hãy xem qua các repository của tôi và kết nối cùng nhau!</i>
-</p>
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"></a>
-<a href="https://www.linkedin.com/in/YOUR_PROFILE/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"></a>
-<a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"></a>
-<a href="https://YOUR_WEBSITE.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"></a>
-</p>
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="visitor badge">       
-</p>
-
-<p align="center">
-  💡 <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-</p><p align="center">
-<a href="https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"></a>
-<a href="https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"></a>
-<a href="https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"></a>
-<a href="https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"></a>
-</p>
-<p align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge">       
-</p>
-<p></p>
-<hr>
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br>
-  <samp>
-  </samp>
-</p>
-
-<p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
-  </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
+<div align="center">
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_. png" alt="Header">
   
+  # 👋 Xin chào!  Tôi là Nhật Huy
+  
+  <p>
+    <a href="https://github.com/Nhathuy2232">
+      <img src="https://img.shields.io/badge/GitHub-Nhathuy2232-181717?style=for-the-badge&logo=github" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR_PROFILE/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+  
+  <img src="https://visitor-badge.laobi. icu/badge?page_id=Nhathuy2232.Nhathuy2232" alt="Visitors">
+</div>
+
+---
+
+## 👨‍💻 Về tôi
+
+```typescript
+const huy = {
+    role: "💻 Full-stack Developer",
+    location: "📍 Việt Nam",
+    education: "🎓 Computer Science Student",
+    
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    
+    technologies: {
+        frontend: {
+            js: ["React", "Redux", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Styled-Components"]
+        },
+        backend: {
+            js: ["Node.js", "Express"],
+            python: ["Flask", "Django"],
+        },
+        databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL"],
+        tools:  ["Git", "Docker", "VS Code", "Postman", "Figma"]
+    },
+    
+    currentlyLearning: ["TypeScript", "GraphQL", "AWS", "Microservices"],
+    currentlyReading: ["Clean Code", "Design Patterns"],
+    
+    goals2026: [
+        "🎯 Master Full-stack Development",
+        "🚀 Launch 1 SaaS Product",
+        "📝 Write 50+ Technical Blogs",
+        "🤝 Contribute to Major Open Source Projects"
+    ],
+    
+    funFact: "☕ Coffee + 🎵 Lo-fi + 💻 Code = Perfect Day"
+};
+```
+
+<div align="center">
+
+### 🏆 GitHub Profile Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nhathuy2232&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nhathuy2232&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Nhathuy2232's Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhathuy2232&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nhathuy2232&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nhathuy2232&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💼 Tech Stack
+
+<div align="center">
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28? style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717? style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Student Management System
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nhathuy2232/student-management)
+[![Demo](https://img.shields.io/badge/Demo-Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://your-demo-link.com)
+
+**Tech Stack:**
+- `React. js` `Node.js` `Express` `MongoDB`
+- `JWT Auth` `REST API` `Responsive Design`
+
+**Features:**
+- ✅ CRUD operations for students
+- ✅ User authentication & authorization
+- ✅ Dashboard with statistics
+- ✅ Search & filter functionality
+- ✅ Export data to CSV
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhathuy2232&repo=student-management&theme=react&hide_border=true&bg_color=0D1117" />
+
+</td>
+<td width="50%">
+
+### 📝 Task Manager Pro
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nhathuy2232/task-manager)
+[![Demo](https://img.shields.io/badge/Demo-Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://your-demo-link.com)
+
+**Tech Stack:**
+- `React.js` `Redux Toolkit` `Tailwind CSS`
+- `LocalStorage` `PWA` `Dark Mode`
+
+**Features:**
+- ✅ Create, edit, delete tasks
+- ✅ Priority levels & categories
+- ✅ Due dates & reminders
+- ✅ Dark/Light theme toggle
+- ✅ Drag & drop interface
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhathuy2232&repo=task-manager&theme=react&hide_border=true&bg_color=0D1117" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Chatbot Assistant
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nhathuy2232/ai-chatbot)
+[![Demo](https://img.shields.io/badge/Demo-Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://your-demo-link.com)
+
+**Tech Stack:**
+- `Python` `Flask` `TensorFlow` `NLP`
+- `NLTK` `Scikit-learn` `REST API`
+
+**Features:**
+- ✅ Natural language processing
+- ✅ Intent recognition
+- ✅ Sentiment analysis
+- ✅ Context awareness
+- ✅ Learning from conversations
+
+<img src="https://github-readme-stats.vercel. app/api/pin/?username=Nhathuy2232&repo=ai-chatbot&theme=react&hide_border=true&bg_color=0D1117" />
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Nhathuy2232/portfolio)
+[![Demo](https://img.shields.io/badge/Demo-Live_Site-00C7B7?style=for-the-badge&logo=netlify)](https://your-demo-link.com)
+
+**Tech Stack:**
+- `React.js` `Framer Motion` `Styled Components`
+- `EmailJS` `Responsive` `SEO Optimized`
+
+**Features:**
+- ✅ Smooth scroll animations
+- ✅ Dark/Light theme
+- ✅ Contact form with email
+- ✅ Projects showcase
+- ✅ Fully responsive
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nhathuy2232&repo=portfolio&theme=react&hide_border=true&bg_color=0D1117" />
+
+</td>
+</tr>
+</table>
+
+### 💡 More Projects
+
+<details>
+<summary><b>🔍 Click to see more projects</b></summary>
+<br>
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **🛒 E-Commerce Platform** | Full-featured online shopping website | React, Node.js, Stripe, MongoDB | [Repo](#) • [Demo](#) |
+| **📊 Data Visualization Dashboard** | Interactive charts and analytics | React, D3.js, Chart.js | [Repo](#) • [Demo](#) |
+| **🎵 Music Player** | Spotify-like music player | React, Context API, Web Audio API | [Repo](#) • [Demo](#) |
+| **🔐 Auth System** | Complete authentication solution | Node.js, JWT, bcrypt, Passport.js | [Repo](#) • [Demo](#) |
+| **📱 Weather App** | Real-time weather application | React, OpenWeather API, Geolocation | [Repo](#) • [Demo](#) |
+| **📝 Markdown Editor** | Live markdown editor with preview | React, marked.js, CodeMirror | [Repo](#) • [Demo](#) |
+| **🎮 Memory Game** | Interactive card matching game | Vanilla JS, CSS Animations | [Repo](#) • [Demo](#) |
+| **💬 Real-time Chat** | WebSocket-based chat app | Node.js, Socket.io, React | [Repo](#) • [Demo](#) |
+
+</details>
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+
+### 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   48.5%
+TypeScript   5 hrs 20 mins   █████░░░░░░░░░░░░░░░░   20.7%
+React        4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   16.5%
+Python       2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░    8.4%
+CSS/SCSS     1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░    6.2%
+```
+<!--END_SECTION:waka-->
+
+### 🎯 Skills Progress
+
+```text
+Frontend Development    ████████████████████░░   90%
+Backend Development     ███████████████░░░░░░░   75%
+Database Management     ██████████████░░░░░░░░   70%
+DevOps & Deployment     ████████░░░░░░░░░░░░░░   40%
+UI/UX Design           ██████████████████░░░░   85%
+Problem Solving        ███████████████████░░░   95%
+```
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nhathuy2232&theme=react&hide_border=true&bg_color=0D1117&layout=compact&custom_title=Coding%20Activity" alt="Wakatime Stats" />
+
+</div>
+
+---
+
+## 🎯 Goals & Roadmap 2026
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[2026 Goals] --> B[Technical Skills]
+    A --> C[Projects]
+    A --> D[Career]
+    A --> E[Community]
+    
+    B --> B1[Master TypeScript]
+    B --> B2[Learn GraphQL]
+    B --> B3[Cloud Services AWS]
+    
+    C --> C1[5 Full-stack Apps]
+    C --> C2[1 SaaS Product]
+    C --> C3[Open Source Contributions]
+    
+    D --> D1[Internship]
+    D --> D2[Freelance Projects]
+    D --> D3[Tech Certifications]
+    
+    E --> E1[Write 50+ Blogs]
+    E --> E2[Mentor Juniors]
+    E --> E3[Attend Meetups]
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Learning Path
+
+- [x] ✅ Master React & Hooks
+- [x] ✅ Learn Node.js & Express
+- [x] ✅ MongoDB Fundamentals
+- [ ] ⏳ TypeScript Advanced
+- [ ] ⏳ Next.js & SSR
+- [ ] ⏳ GraphQL & Apollo
+- [ ] ⏳ Docker & Kubernetes
+- [ ] 📅 AWS Cloud Services
+- [ ] 📅 Microservices Architecture
+- [ ] 📅 System Design Patterns
+
+</td>
+<td width="50%">
+
+### 🎯 2026 Milestones
+
+**Q1 2026**
+- [x] Complete 2 full-stack projects
+- [x] Learn TypeScript basics
+- [ ] Write 10 technical blogs
+
+**Q2 2026**
+- [ ] Launch personal portfolio v2
+- [ ] Contribute to 3 OSS projects
+- [ ] Secure internship position
+
+**Q3 2026**
+- [ ] Build & launch SaaS MVP
+- [ ] Reach 500+ GitHub contributions
+- [ ] Attend 5+ tech meetups
+
+**Q4 2026**
+- [ ] Complete 3 freelance projects
+- [ ] Mentor 5 junior developers
+- [ ] Get 1000+ GitHub followers
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00. pdf">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM. png" height="100" width="100">
+</a>
+<br><b>ACM Member</b>
+</td>
+<td align="center" width="25%">
+<a href="https://img.halfrost.com/certificate/IEEE_MEM500_97002879. pdf">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100">
+</a>
+<br><b>IEEE Member</b>
+</td>
+<td align="center" width="25%">
+<a href="https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100">
+</a>
+<br><b>IEEE-CS Member</b>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100">
+<br><b>CCF Member</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://img.halfrost.com/certificate/AppleTeacher. pdf">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100">
+</a>
+<br><b>Apple Developer</b>
+</td>
+<td align="center" width="25%">
+<a href="https://www.youracclaim.com/badges/b6257c8a-6906-4555-9951-3b92f8918052/public_url">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/WES.png" height="100" width="100">
+</a>
+<br><b>WES Certified</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Certificate-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br><b>JS Algorithms</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Certificate-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<br><b>React Developer</b>
+</td>
+</tr>
+</table>
+
+### 📜 Certifications
+
+| Certificate | Issuer | Year | Status |
+|------------|--------|------|--------|
+| 🎓 JavaScript Algorithms and Data Structures | freeCodeCamp | 2024 | ✅ Completed |
+| 🎓 Responsive Web Design | freeCodeCamp | 2024 | ✅ Completed |
+| 🎓 Front End Development Libraries | freeCodeCamp | 2025 | ✅ Completed |
+| 🎓 Python Programming | Coursera | 2024 | ✅ Completed |
+| 🎓 Git & GitHub Essentials | Udemy | 2024 | ✅ Completed |
+| 🎓 Node.js - The Complete Guide | Udemy | 2025 | ⏳ In Progress |
+| 🎓 AWS Cloud Practitioner | AWS | 2026 | 📅 Planned |
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+- 📌 [Building a Full-Stack App with MERN Stack](https://your-blog. com/mern-stack)
+- 🚀 [10 React Hooks You Should Know in 2026](https://your-blog.com/react-hooks)
+- 💡 [Clean Code Principles Every Developer Should Follow](https://your-blog.com/clean-code)
+- 🎯 [How I Optimized My Website Performance by 80%](https://your-blog.com/performance)
+- 🔐 [Understanding JWT Authentication in Node.js](https://your-blog.com/jwt-auth)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [View all posts... ](https://your-blog.com)
+
+</div>
+
+---
+
+## 💬 Let's Connect! 
+
+<div align="center">
+
+### 🌐 Find me around the web
+
+<p>
+<a href="https://github.com/Nhathuy2232" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/YOUR_PROFILE/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+</p>
+
+<p>
+<a href="mailto:your. email@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://discord. gg/YOUR_SERVER" target="_blank">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://t.me/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://YOUR_WEBSITE. com" target="_blank">
+<img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+</a>
+</p>
+
+### 📧 Contact Me
+
+```javascript
+const contactInfo = {
+    email: "your.email@example.com",
+    linkedin: "linkedin.com/in/YOUR_PROFILE",
+    website: "your-website.com",
+    timezone: "GMT+7 (Vietnam)"
+};
+
+// Always open to: 
+const openTo = [
+    "💼 Job opportunities",
+    "🤝 Collaboration on projects",
+    "💡 Discussing tech & ideas",
+    "👨‍🏫 Mentoring & teaching",
+    "☕ Coffee chats about code"
+];
+```
+
+</div>
+
+---
+
+## 📊 Profile Views & Followers
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/? username=Nhathuy2232&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/followers/Nhathuy2232?label=Followers&style=for-the-badge&color=success" alt="Followers" />
+
+<img src="https://img.shields.io/github/stars/Nhathuy2232?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel. app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Nhathuy2232/Nhathuy2232/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Inspirational Quotes
+
+> *"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
+
+> *"First, solve the problem. Then, write the code."* – **John Johnson**
+
+> *"Make it work, make it right, make it fast."* – **Kent Beck**
+
+> *"The best way to predict the future is to invent it."* – **Alan Kay**
+
+---
+
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github. gif" width="80">
+
+### ⚡ Thanks for visiting! 
+
+**Let's build something amazing together!  🚀**
+
+<sub>Last updated: January 2026</sub>
+
+</div>
+
+<!--
+**Nhathuy2232/Nhathuy2232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
