@@ -143,7 +143,7 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
 | **Statistic** | **Value** |
 |--------------|-----------|
 | **Total Repositories** | ![](https://img.shields.io/badge/dynamic/json?color=blue&label=…_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNhathuy2232) |
-| **Total Stars** | ![](https://img.shields.io/github/stars/nhathuy2232?color=yellow) |
+| **Total Stars** | ![](https://img.shields.io/github/stars/Nhathuy2232?color=yellow) |
 
 ---
 
