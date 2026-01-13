@@ -120,16 +120,6 @@ Tôi là <strong>💻 Web Developer</strong> đam mê xây dựng <strong>🌐 W
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nhathuy2232&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph">
 </p>
 
-<!-- WakaTime: sẽ hiển thị nếu đã kết nối WakaTime; nếu chưa, thẻ vẫn load hợp lệ -->
-<details>
-  <summary>⏱️ Weekly Coding Activity (WakaTime)</summary>
-  <br>
-  
-  <!--START_SECTION:waka-->
-  
-  <!--END_SECTION:waka-->
-<hr>
-
 ## 🏆 Badges & Affiliations
 <p align="center">
   <a href="https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="90" width="90" alt="ACM"></a>
