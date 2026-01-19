@@ -60,9 +60,6 @@
 <ul style="height: auto !important;">
   <li>🌱   Đang học: React.js, Node.js, MongoDB &amp; Machine Learning cơ bản</li>
   <li>📚   Sở thích: Đọc sách công nghệ, xem tech talks và làm pet projects</li>
-  <li>💻   3 năm học tập chuyên sâu về lập trình và phát triển phần mềm</li>
-  <li>⛵   Tích cực đóng góp cho cộng đồng open source</li>
-  <li>✍🏻  Thỉnh thoảng viết blog chia sẻ kiến thức lập trình</li>
   <li>🎯   Mục tiêu: Trở thành Full-stack Developer trong 2 năm tới</li>
   <li>⚡   Fun fact: Có thể code cả ngày với coffee và lo-fi music</li>
 </ul>
@@ -107,10 +104,14 @@
 
 ## 🚀 Dự án nổi bật
 
-- 🎓 <b>Student Management System</b> — Full-stack (React, Node.js, MongoDB). CRUD sinh viên, Auth, Dashboard, tìm kiếm & lọc.
-- 📝 <b>Task Manager Pro</b> — React + Redux + Tailwind. Ưu tiên, deadline, nhắc việc, dark mode.
-- 🤖 <b>AI Chatbot</b> — Python + Flask + NLP. Intent recognition, sentiment analysis, context.
-- 🌐 <b>Personal Portfolio</b> — React + Framer Motion. Smooth animation, contact form, SEO.
+## 🚀 Dự án thực tế
+
+- 🛒 <b>cn-da22ttb-nguyendinhnhathuy-webbandungcuvaphukiencauca-nextjs</b> — Next.js (TypeScript). Website bán dụng cụ & phụ kiện câu cá. [Repo](https://github.com/Nhathuy2232/cn-da22ttb-nguyendinhnhathuy-webbandungcuvaphukiencauca-nextjs)
+- 🧾 <b>VPP_OSS_T10</b> — Laravel 9 (PHP 8, Blade, Sanctum). Hệ thống bán văn phòng phẩm online (fork). [Repo](https://github.com/Nhathuy2232/VPP_OSS_T10)
+- 💬 <b>MINICHAT_T.HUY</b> — Java (core). Ứng dụng mini chat. [Repo](https://github.com/Nhathuy2232/MINICHAT_T.HUY)
+- ⌚ <b>SOAD-WatchStore</b> — Fork (riêng tư). Kho đồng hồ (không công khai nội dung). [Repo](https://github.com/Nhathuy2232/SOAD-WatchStore)
+- 🧪 <b>CNPHANMEM</b> — Repo khởi tạo (chưa có nội dung). [Repo](https://github.com/Nhathuy2232/CNPHANMEM)
+- 🌍 <b>csn-da22ttb-nguyendinhnhathuy-websitegioithieudulichtravinh-wordpress</b> — WordPress. Website giới thiệu du lịch Trà Vinh. [Repo](https://github.com/Nhathuy2232/csn-da22ttb-nguyendinhnhathuy-websitegioithieudulichtravinh-wordpress)
 
 <p align="center">
   <a href="https://github.com/Nhathuy2232?tab=repositories">
@@ -145,10 +146,7 @@
 
 ## 🏆 Badges & Affiliations
 <p align="center">
-  <a href="https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="90" width="90" alt="ACM"></a>
-  <a href="https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="90" width="90" alt="IEEE"></a>
-  <a href="https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="90" width="90" alt="IEEE-CS"></a>
-  <img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="90" width="90" alt="Apple">
+  
 </p>
 
 <hr>
