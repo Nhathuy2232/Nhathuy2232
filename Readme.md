@@ -106,18 +106,23 @@
 
 ## 🚀 Dự án thực tế
 
-- 🛒 <b>cn-da22ttb-nguyendinhnhathuy-webbandungcuvaphukiencauca-nextjs</b> — Next.js (TypeScript). Website bán dụng cụ & phụ kiện câu cá. [Repo](https://github.com/Nhathuy2232/cn-da22ttb-nguyendinhnhathuy-webbandungcuvaphukiencauca-nextjs)
-- 🧾 <b>VPP_OSS_T10</b> — Laravel 9 (PHP 8, Blade, Sanctum). Hệ thống bán văn phòng phẩm online (fork). [Repo](https://github.com/Nhathuy2232/VPP_OSS_T10)
-- 💬 <b>MINICHAT_T.HUY</b> — Java (core). Ứng dụng mini chat. [Repo](https://github.com/Nhathuy2232/MINICHAT_T.HUY)
-- ⌚ <b>SOAD-WatchStore</b> — Fork (riêng tư). Kho đồng hồ (không công khai nội dung). [Repo](https://github.com/Nhathuy2232/SOAD-WatchStore)
-- 🧪 <b>CNPHANMEM</b> — Repo khởi tạo (chưa có nội dung). [Repo](https://github.com/Nhathuy2232/CNPHANMEM)
-- 🌍 <b>csn-da22ttb-nguyendinhnhathuy-websitegioithieudulichtravinh-wordpress</b> — WordPress. Website giới thiệu du lịch Trà Vinh. [Repo](https://github.com/Nhathuy2232/csn-da22ttb-nguyendinhnhathuy-websitegioithieudulichtravinh-wordpress)
+- 🛒 <b>cn-da22ttb-nguyendinhnhathuy-webbandungcuvaphukiencauca-nextjs</b> — Next.js (TypeScript). Website bán dụng cụ & phụ kiện câu cá. 
+  Tech: Frontend: Next.js 15 (React 18), TypeScript, Tailwind CSS, Lucide React, Turbopack; Backend: Node.js + Express (TypeScript), MySQL (mysql2), JWT (jsonwebtoken), bcryptjs, Zod, Pino, Swagger (swagger-jsdoc, swagger-ui-express), Multer, Helmet, CORS; Tooling: ESLint, npm, XAMPP (MySQL). [Repo](https://github.com/Nhathuy2232/cn-da22ttb-nguyendinhnhathuy-webbandungcuvaphukiencauca-nextjs)
 
-<p align="center">
-  <a href="https://github.com/Nhathuy2232?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories">
-  </a>
-</p>
+- 🧾 <b>VPP_OSS_T10</b> — Laravel e-commerce (fork). Hệ thống bán văn phòng phẩm online. 
+  Tech: PHP 8, Laravel 9, Blade, Laravel Sanctum, Laravel Vite Plugin, Vite, Tailwind CSS, Alpine.js, Axios, PostCSS, Autoprefixer. [Repo](https://github.com/Nhathuy2232/VPP_OSS_T10)
+
+- 💬 <b>MINICHAT_T.HUY</b> — Java (core). Ứng dụng mini chat client/server (console). 
+  Tech: Java SE, java.net.ServerSocket/Socket, đa luồng (Thread), I/O stream (BufferedReader/PrintWriter). [Repo](https://github.com/Nhathuy2232/MINICHAT_T.HUY)
+
+- ⌚ <b>SOAD-WatchStore</b> — Fork (riêng tư). Kho đồng hồ (nội dung private). 
+  Tech: TypeScript (theo ngôn ngữ của repo gốc). [Repo](https://github.com/Nhathuy2232/SOAD-WatchStore)
+
+- 🧪 <b>CNPHANMEM</b> — Repo khởi tạo (chưa có nội dung). 
+  Tech: N/A. [Repo](https://github.com/Nhathuy2232/CNPHANMEM)
+
+- 🌍 <b>csn-da22ttb-nguyendinhnhathuy-websitegioithieudulichtravinh-wordpress</b> — WordPress. Website giới thiệu du lịch Trà Vinh. 
+  Tech: WordPress, PHP, MySQL, theme/plugin cơ bản (chi tiết plugin chưa công khai). [Repo](https://github.com/Nhathuy2232/csn-da22ttb-nguyendinhnhathuy-websitegioithieudulichtravinh-wordpress)
 
 <hr>
 
